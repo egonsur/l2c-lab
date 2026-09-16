@@ -1,7 +1,7 @@
 /* Fictional learning scenario; all monetary and capacity assumptions live here. */
 const CC={};
 CC.scenario={
- name:'Willow District',budget:100000,annualTarget:12000,currency:'USD',
+ name:'Fårö District',budget:100000,annualTarget:12000,currency:'USD',
  local:{name:'Local router / Ethernet / Wi-Fi',capex:2000,opex:100},
  power:{name:'Solar + battery',capex:6000,opex:200},
  events:{growthAfter:3,stormAfter:4,growthSite:'b',growthMultiplier:2,criticalSite:'health'},
